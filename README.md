@@ -28,11 +28,6 @@ Uma breve descrição das atividades práticas desenvolvidas na disciplina, como
 
 ---
 
-## 📂 Estrutura do Repositório
 
-- **/Trabalhos:** Contém todos os trabalhos práticos e projetos desenvolvidos ao longo do semestre.
-- **/Anotacoes-de-Aula:** Minhas anotações pessoais feitas durante as aulas.
-
----
 
 Este repositório é uma forma de organizar meu aprendizado e criar um portfólio dos meus projetos acadêmicos.
