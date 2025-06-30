@@ -13,6 +13,7 @@ Repositório destinado a todos os trabalhos, materiais de estudo e anotações d
 
 ### Ementa do Curso
 Disciplina: AEDs I (Prática)
+
 Uma breve descrição das atividades práticas desenvolvidas na disciplina, como:
 - Aplicação de constantes e variáveis em programas
 - Implementação de expressões e operações em código
